@@ -14,6 +14,20 @@ A Safari Web Extension for iOS and macOS that hides YouTube Shorts and Instagram
 - macOS with Xcode
 - Safari on iOS or macOS
 
+## Install
+
+This project is not packaged as a downloadable app yet. Install it locally from Xcode:
+
+1. Clone the repository: `git clone https://github.com/readyyyk/no-shorts.git`.
+2. Open `no-shorts.xcodeproj` in Xcode.
+3. Select the `no-shorts (iOS)` or `no-shorts (macOS)` target.
+4. Set your Apple development team in Signing & Capabilities.
+5. Replace the placeholder `com.example.no-shorts` bundle identifiers with your own app and extension identifiers.
+6. Build and run the app on your device or Mac.
+7. Enable the extension in Safari.
+
+On iOS, open Settings, then Safari, then Extensions, then enable No Shorts No Reels. On macOS, open Safari, then Settings, then Extensions, then enable No Shorts No Reels.
+
 ## Development
 
 1. Open `no-shorts.xcodeproj` in Xcode.
