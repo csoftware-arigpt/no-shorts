@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "No Shorts No Reels",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Hides YouTube Shorts and Instagram Reels in Safari.",
+        "description": "Description of what the extension does."
+    }
+}
